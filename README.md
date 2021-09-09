@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tywenrick3
-- 🌱 I’m currently learning python
+- 🌱 I’m currently learning python, typescript and react
 - 📫 How to reach me -tew287@nyu.edu
 
 <!---
