@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @tywenrick3
 - 🌱 I’m currently learning and working with python, c++, javascript/typescript, React, Express, and Firebase
-- 📫 How to reach me -tew287@nyu.edu
+- 📫 How to reach me -tew287@nyu.edu or my mobile -(510)-778-0098
 
 <!---
 tywenrick3/tywenrick3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
