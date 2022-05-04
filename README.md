@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tywenrick3
-- 🌱 I’m currently learning and working with python, c++, javascript/typescript, React, Express, and Firebase
+- 🌱 I’m currently learning and working with python, c++, javascript/typescript, ReactJS and Native
 - 📫 How to reach me -tew287@nyu.edu or my mobile -(510)-778-0098
 
 <!---
