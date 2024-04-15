@@ -1,8 +1,6 @@
 - 👋 Hi, I’m @tywenrick3
-- 🌱 I’m currently learning and working with python, c++, javascript/typescript, ReactJS and Native. Excited by AI.
+- 🌱 Learning and building with python, c++, c, js.
 - 📫 How to reach me -tew287@nyu.edu or my mobile -(510)-778-0098
-- 📚 Graduating from NYU Tandon School of Engineering Spring 2023: B.S. IDM, Minor Psychology 🗽
-- 🍎 Apple Intern Class Summer 2022
 
 <!---
 tywenrick3/tywenrick3 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
