@@ -1,5 +1,5 @@
 - 👋 Hi, I’m @tywenrick3
-- 🌱 Working with python, c++, c, js, swift.
+- 🌱 Working with python, c++, c, obj-c, js, swift.
 - 🚀 Interested in games, puzzels, space, sports, storytelling, animation, robotics + mooore
 - 💫 No shame in learning
 - 📫 How to reach me tew287@nyu.edu or my mobile +1 (510)-778-0098
