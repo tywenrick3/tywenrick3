@@ -1,8 +1,8 @@
 - 👋 Hi, I’m @tywenrick3
 - 🌱 Working with python, c++, c, obj-c, js, swift, learning zig and rust. 
-- 🚀 Interested in deep learning, automation, cybersecurity, bitcoin, spatial computing, renewable energy, games, puzzels, space, sports, storytelling, animation, robotics, literature, human interfaces, medicine.
-- 💫 No shame in learning, stay curious
-- 🤖 Theres never been a better time to build!
+- 🚀 Interested in deep learning, automation, cybersecurity, blockchain, spatial computing, renewable energy, games, puzzels, space, sports, storytelling, animation, robotics, literature, human interfaces, medicine, design and more . . .
+- 💫 No shame in learning
+- 🤖 Theres never been a better time to build things!
 - 📫 How to reach me tew287@nyu.edu or my mobile +1 (510)-778-0098
 
 <!---
